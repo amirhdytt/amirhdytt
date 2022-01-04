@@ -27,5 +27,5 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhdytt&show_icons=true&locale=en&layout=compact" alt="amirhdytt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirhdytt&show_icons=true&locale=en" alt="amirhdytt" /></p>
 <br>
